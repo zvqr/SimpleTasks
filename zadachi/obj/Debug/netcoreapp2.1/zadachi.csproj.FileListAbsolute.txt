@@ -1,0 +1,11 @@
+C:\Users\dimit\source\repos\zadachi\zadachi\bin\Debug\netcoreapp2.1\zadachi.deps.json
+C:\Users\dimit\source\repos\zadachi\zadachi\bin\Debug\netcoreapp2.1\zadachi.runtimeconfig.json
+C:\Users\dimit\source\repos\zadachi\zadachi\bin\Debug\netcoreapp2.1\zadachi.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\zadachi\zadachi\bin\Debug\netcoreapp2.1\zadachi.dll
+C:\Users\dimit\source\repos\zadachi\zadachi\bin\Debug\netcoreapp2.1\zadachi.pdb
+C:\Users\dimit\source\repos\zadachi\zadachi\obj\Debug\netcoreapp2.1\zadachi.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\zadachi\zadachi\obj\Debug\netcoreapp2.1\zadachi.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\zadachi\zadachi\obj\Debug\netcoreapp2.1\zadachi.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\zadachi\zadachi\obj\Debug\netcoreapp2.1\zadachi.AssemblyInfo.cs
+C:\Users\dimit\source\repos\zadachi\zadachi\obj\Debug\netcoreapp2.1\zadachi.dll
+C:\Users\dimit\source\repos\zadachi\zadachi\obj\Debug\netcoreapp2.1\zadachi.pdb

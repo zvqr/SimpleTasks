@@ -1,0 +1,10 @@
+C:\Users\Rebound\Desktop\zadachi\zadachi\zadachi\bin\Debug\netcoreapp2.1\brackets.deps.json
+C:\Users\Rebound\Desktop\zadachi\zadachi\zadachi\bin\Debug\netcoreapp2.1\brackets.runtimeconfig.json
+C:\Users\Rebound\Desktop\zadachi\zadachi\zadachi\bin\Debug\netcoreapp2.1\brackets.runtimeconfig.dev.json
+C:\Users\Rebound\Desktop\zadachi\zadachi\zadachi\bin\Debug\netcoreapp2.1\brackets.dll
+C:\Users\Rebound\Desktop\zadachi\zadachi\zadachi\bin\Debug\netcoreapp2.1\brackets.pdb
+C:\Users\Rebound\Desktop\zadachi\zadachi\zadachi\obj\Debug\netcoreapp2.1\brackets.csproj.CoreCompileInputs.cache
+C:\Users\Rebound\Desktop\zadachi\zadachi\zadachi\obj\Debug\netcoreapp2.1\brackets.AssemblyInfoInputs.cache
+C:\Users\Rebound\Desktop\zadachi\zadachi\zadachi\obj\Debug\netcoreapp2.1\brackets.AssemblyInfo.cs
+C:\Users\Rebound\Desktop\zadachi\zadachi\zadachi\obj\Debug\netcoreapp2.1\brackets.dll
+C:\Users\Rebound\Desktop\zadachi\zadachi\zadachi\obj\Debug\netcoreapp2.1\brackets.pdb

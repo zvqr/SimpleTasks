@@ -1,0 +1,11 @@
+C:\Users\dimit\source\repos\zadachi\coordination\bin\Debug\netcoreapp2.1\coordination.deps.json
+C:\Users\dimit\source\repos\zadachi\coordination\bin\Debug\netcoreapp2.1\coordination.runtimeconfig.json
+C:\Users\dimit\source\repos\zadachi\coordination\bin\Debug\netcoreapp2.1\coordination.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\zadachi\coordination\bin\Debug\netcoreapp2.1\coordination.dll
+C:\Users\dimit\source\repos\zadachi\coordination\bin\Debug\netcoreapp2.1\coordination.pdb
+C:\Users\dimit\source\repos\zadachi\coordination\obj\Debug\netcoreapp2.1\coordination.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\zadachi\coordination\obj\Debug\netcoreapp2.1\coordination.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\zadachi\coordination\obj\Debug\netcoreapp2.1\coordination.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\zadachi\coordination\obj\Debug\netcoreapp2.1\coordination.AssemblyInfo.cs
+C:\Users\dimit\source\repos\zadachi\coordination\obj\Debug\netcoreapp2.1\coordination.dll
+C:\Users\dimit\source\repos\zadachi\coordination\obj\Debug\netcoreapp2.1\coordination.pdb

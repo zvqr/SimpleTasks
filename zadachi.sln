@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "brackets", "zadachi\brackets.csproj", "{622CB90B-A6E4-4633-8411-C864839A3C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palendrom", "palendrom\palendrom.csproj", "{CF45A557-353F-4B4C-88E1-40B198E57BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "min max tree value", "min max tree value\min max tree value.csproj", "{056DCBB2-3D55-4C20-B181-447CF4BB5999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dutch flag", "dutch flag\dutch flag.csproj", "{C9FD2AEF-CC00-423E-8D45-158AE472BB03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coordination", "coordination\coordination.csproj", "{107E5E31-3868-4C14-AB6C-07AEC483360D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{622CB90B-A6E4-4633-8411-C864839A3C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622CB90B-A6E4-4633-8411-C864839A3C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622CB90B-A6E4-4633-8411-C864839A3C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622CB90B-A6E4-4633-8411-C864839A3C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF45A557-353F-4B4C-88E1-40B198E57BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF45A557-353F-4B4C-88E1-40B198E57BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF45A557-353F-4B4C-88E1-40B198E57BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF45A557-353F-4B4C-88E1-40B198E57BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056DCBB2-3D55-4C20-B181-447CF4BB5999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056DCBB2-3D55-4C20-B181-447CF4BB5999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056DCBB2-3D55-4C20-B181-447CF4BB5999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056DCBB2-3D55-4C20-B181-447CF4BB5999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9FD2AEF-CC00-423E-8D45-158AE472BB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FD2AEF-CC00-423E-8D45-158AE472BB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FD2AEF-CC00-423E-8D45-158AE472BB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FD2AEF-CC00-423E-8D45-158AE472BB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107E5E31-3868-4C14-AB6C-07AEC483360D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107E5E31-3868-4C14-AB6C-07AEC483360D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107E5E31-3868-4C14-AB6C-07AEC483360D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107E5E31-3868-4C14-AB6C-07AEC483360D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1326111C-B092-46F2-9E7D-A7658EAFDCCC}
+	EndGlobalSection
+EndGlobal

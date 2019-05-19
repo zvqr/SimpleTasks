@@ -1,0 +1,11 @@
+C:\Users\Rebound\Desktop\zadachi\zadachi\min max tree value\bin\Debug\netcoreapp2.1\min max tree value.deps.json
+C:\Users\Rebound\Desktop\zadachi\zadachi\min max tree value\bin\Debug\netcoreapp2.1\min max tree value.runtimeconfig.json
+C:\Users\Rebound\Desktop\zadachi\zadachi\min max tree value\bin\Debug\netcoreapp2.1\min max tree value.runtimeconfig.dev.json
+C:\Users\Rebound\Desktop\zadachi\zadachi\min max tree value\bin\Debug\netcoreapp2.1\min max tree value.dll
+C:\Users\Rebound\Desktop\zadachi\zadachi\min max tree value\bin\Debug\netcoreapp2.1\min max tree value.pdb
+C:\Users\Rebound\Desktop\zadachi\zadachi\min max tree value\obj\Debug\netcoreapp2.1\min max tree value.csprojAssemblyReference.cache
+C:\Users\Rebound\Desktop\zadachi\zadachi\min max tree value\obj\Debug\netcoreapp2.1\min max tree value.csproj.CoreCompileInputs.cache
+C:\Users\Rebound\Desktop\zadachi\zadachi\min max tree value\obj\Debug\netcoreapp2.1\min max tree value.AssemblyInfoInputs.cache
+C:\Users\Rebound\Desktop\zadachi\zadachi\min max tree value\obj\Debug\netcoreapp2.1\min max tree value.AssemblyInfo.cs
+C:\Users\Rebound\Desktop\zadachi\zadachi\min max tree value\obj\Debug\netcoreapp2.1\min max tree value.dll
+C:\Users\Rebound\Desktop\zadachi\zadachi\min max tree value\obj\Debug\netcoreapp2.1\min max tree value.pdb
